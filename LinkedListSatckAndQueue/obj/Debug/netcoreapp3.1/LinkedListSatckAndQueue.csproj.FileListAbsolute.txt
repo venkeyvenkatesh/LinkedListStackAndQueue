@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.exe
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.deps.json
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.runtimeconfig.json
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.dll
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\bin\Debug\netcoreapp3.1\LinkedListSatckAndQueue.pdb
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.dll
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.pdb
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LinkedListSatckAndQueue\LinkedListSatckAndQueue\obj\Debug\netcoreapp3.1\LinkedListSatckAndQueue.csprojAssemblyReference.cache
