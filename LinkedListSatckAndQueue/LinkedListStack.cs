@@ -43,5 +43,35 @@ namespace LinkedListSatckAndQueue
                 }
             }
         }
+        internal void Peek()
+        {
+            if (isEmpty())
+            {
+                Console.WriteLine("Stack is Empty");
+            }
+            else
+            {
+                Console.WriteLine("\n" + this.top.data + " is in the top of the stack");
+
+            }
+        }
+
+        internal void Pop()
+        {
+            if (isEmpty())
+            {
+                Console.WriteLine("Stack is empty");
+            }
+            else
+            {
+                Console.WriteLine("\n" + this.top.data + " is popped from stack");
+                this.top = this.top.next;
+            }
+        }
+
+        internal bool isEmpty()
+        {
+            return top == null ? true : false;
+        }
     }
 }

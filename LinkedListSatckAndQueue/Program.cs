@@ -12,6 +12,17 @@ namespace LinkedListSatckAndQueue
             stack.Push(30);
             stack.Push(70);
             stack.Display();
+            stack.Peek();
+            stack.Pop();
+            stack.Display();
+            if (stack.isEmpty())
+            {
+                Console.WriteLine("\nStack is empty");
+            }
+            else
+            {
+                Console.WriteLine("\nStack is not empty");
+            }
         }
     }
 }
