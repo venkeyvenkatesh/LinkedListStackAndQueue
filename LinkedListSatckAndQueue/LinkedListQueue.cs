@@ -45,5 +45,23 @@ namespace LinkedListSatckAndQueue
                 }
             }
         }
+        internal void Dequeue()
+        {
+            if (isEmpty())
+            {
+                Console.WriteLine("Queue is empty");
+            }
+            else
+            {
+                Console.WriteLine("\n" + head.data + " is Dequeued from queue");
+                head = head.next;
+            }
+        }
+
+        internal bool isEmpty()
+        {
+            return head == null ? true : false;
+        }
+
     }
 }

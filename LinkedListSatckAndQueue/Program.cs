@@ -14,6 +14,14 @@ namespace LinkedListSatckAndQueue
             queue.Enqueue(60);
             queue.Enqueue(70);
             queue.Display();
+
+            queue.Dequeue();
+            queue.Display();
+
+            queue.Dequeue();
+            queue.Display();
+            queue.Dequeue();
+            queue.Display();
         }
     }
 }
